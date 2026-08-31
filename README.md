@@ -33,3 +33,9 @@
 │  Location    → Indore, Madhya Pradesh, India 🇮🇳              │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
+
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,react,nodejs,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-★★★★☆-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-★★★☆☆-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/AI%20%26%20ML-★★★★☆-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Backend-★★★☆☆-00C7B7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Automation-★★★★☆-FF6B35?style=for-the-badge"/> </div>
