@@ -33,6 +33,7 @@
 │  Location    → Indore, Madhya Pradesh, India 🇮🇳              │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
+```
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,react,nodejs,git,github,vscode&theme=dark" />
 
