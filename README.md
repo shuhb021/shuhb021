@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- ===================== HERO ===================== -->
 
-<!--
-**shuhb021/shuhb021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Shubh Shrivastava 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI & Machine Learning Researcher • Backend & LLM Developer
+
+<p>
+  <em>
+    Building intelligent systems, automation tools, and scalable software.
+  </em>
+</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Student;Backend+%26+LLM+Developer;Building+Intelligent+Systems;Researching.+Learning.+Building." />
+
+</div>
+
+---
+
+## 🧑‍💻 `whoami`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  Name        → Shubh Shrivastava                             │
+│  Role        → AI & Machine Learning Researcher              │
+│  Focus       → AI/ML • LLMs • Backend • Automation           │
+│  Currently   → Building intelligent and scalable systems     │
+│  Education   → B.Tech in Artificial Intelligence & ML        │
+│  Location    → Indore, Madhya Pradesh, India 🇮🇳              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
